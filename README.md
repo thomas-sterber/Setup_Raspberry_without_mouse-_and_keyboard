@@ -1,4 +1,4 @@
-# Setup_Raspberry_without_mouse-_and_keyboard
+# Setup_Raspberry_without_mouse_and_keyboard
 
 ## Step 1 - flash SD card with latest Raspbery OS
   	
