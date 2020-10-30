@@ -31,10 +31,12 @@
 	>> ssh to the Raspberry and login with user 'pi' and password 'meraki123'
 	#sudo apt-get update
 	#sudo apt-get dist-upgrade
+	#sudo reboot
 
 
 ## Step 5 - change password for user 'root'
 	
+	>> ssh to the Raspberry and login with user 'pi' and password 'meraki123'
 	#sudo su
 	#passwd root
 	#meraki123#
